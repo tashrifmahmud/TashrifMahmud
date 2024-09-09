@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TashrifMahmud
+- 👋 Hi, I’m @tashrifmahmud
 - 👀 I’m interested in Data and Project Management
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Learning and Development
