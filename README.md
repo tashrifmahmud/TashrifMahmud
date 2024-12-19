@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM25wMGpmMnc1c25pYjBqZ2lvNmVyOXpydmludGVscG1kODlid3l6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fwbzI2kV3Qrlpkh59e/giphy.webp" alt="Animated Header" />
+  <img height="150" src="https://gifdb.com/images/high/black-cat-typing-fast-z5sz7os422wrp0pt.gif" alt="Animated Header" />
 </div>
 
 ###
