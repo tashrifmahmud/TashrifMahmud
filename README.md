@@ -45,7 +45,7 @@
 
 ###
 
-<h3 align="center">Aspiring Data Scientist passionate about solving real-world problems through data</h3>
+<h3 align="center">Aspiring Data Scientist and a Data Enthusiast transitioning into the Tech World with a Passion for Machine Learning and AI, passionate about solving real-world problems through data!</h3>
 
 ###
 
@@ -73,3 +73,46 @@
   <img src="https://github-readme-stats.vercel.app/api?username=tashrifmahmud&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" /><br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tashrifmahmud&theme=react-dark&radius=16" height="250" alt="Activity Graph" />
 </div>
+
+### Technical Skills
+<div align="center">
+
+#### Programming & Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter Notebook" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Command Line" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Microsoft_Excel_2013_logo.svg" height="40" alt="Excel" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Outlook_2013_logo.svg" height="40" alt="Outlook" />
+
+#### Data Analysis
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Data Wrangling" />
+
+#### Machine Learning & AI
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="Keras" />
+
+#### Artificial Intelligence
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="NLP" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/OpenAI_Logo.svg" height="40" alt="OpenAI" />
+
+#### Data Visualization
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="40" alt="Seaborn" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40" alt="Plotly" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Tableau_Logo.png" height="40" alt="Tableau" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Microsoft_PowerPoint_2013_logo.svg" height="40" alt="PowerPoint" />
+
+#### Development & Deployment
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="Heroku" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Railway_logo.svg" height="40" alt="Railway" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+
+</div>
+
