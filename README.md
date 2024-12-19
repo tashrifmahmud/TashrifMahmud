@@ -84,8 +84,7 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" /><br><b>PostgreSQL</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" /><br><b>Git</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter Notebook" /><br><b>Jupyter Notebook</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Command Line" /><br><b>Command Line</b></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Microsoft_Excel_2013_logo.svg" height="40" alt="Excel" /><br><b>Excel</b></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Microsoft_Office_Logo_%282013-2019%29.svg" height="40" alt="Microsoft Office" /><br><b>Microsoft Office</b></td>
   </tr>
 </table>
 
@@ -94,7 +93,6 @@
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" /><br><b>Pandas</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" /><br><b>NumPy</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Data Wrangling" /><br><b>Data Wrangling</b></td>
   </tr>
 </table>
 
@@ -111,9 +109,15 @@
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" /><br><b>Matplotlib</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="40" alt="Seaborn" /><br><b>Seaborn</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40" alt="Plotly" /><br><b>Plotly</b></td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Tableau_Logo.png" height="40" alt="Tableau" /><br><b>Tableau</b></td>
+  </tr>
+</table>
+
+#### Databases
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" /><br><b>MySQL</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" /><br><b>SQLite</b></td>
   </tr>
 </table>
 
