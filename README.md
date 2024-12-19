@@ -34,7 +34,7 @@
   <table>
     <tr>
       <td align="left">
-        🔭 Currently working on <a href="https://github.com/yourusername/hybrid-recommender-system" target="_blank">Hybrid Recommendation System</a><br>
+        🔭 Currently working on <a href="https://github.com/yourusername/hybrid-recommender-system" target="_blank">AI Recommendation Engines</a><br>
         🌱 Expanding my skills in <b>Deep Learning</b> and <b>Natural Language Processing</b><br>
         👨‍💻 Check our some of my completed projects: <br>
         - <a href="https://github.com/tashrifmahmud/Hybrid-Recommender-System" target="_blank">Hybrid Recommendation System</a><br>
@@ -47,6 +47,7 @@
 </div>
 
 ###
+<div align="center">
 
 #### Programming & Tools
 <table>
@@ -57,6 +58,8 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter Notebook" /><br><b>Jupyter Notebook</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Command Line" /><br><b>Command Line</b></td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Microsoft_Office_logo_%282013%E2%80%932019%29.svg" height="40" alt="Microsoft Office" /><br><b>Microsoft Office</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" alt="Bash" /><br><b>Bash</b></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="40" alt="Colab" /><br><b>Colab</b></td>
   </tr>
 </table>
 
@@ -65,6 +68,7 @@
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" /><br><b>Pandas</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" /><br><b>NumPy</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stata/stata-original-wordmark.svg" height="40" alt="Stata" /><br><b>Stata</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Data Wrangling" /><br><b>Data Wrangling</b></td>
   </tr>
 </table>
@@ -85,6 +89,7 @@
     <td align="center"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="Seaborn" /><br><b>Seaborn</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40" alt="Plotly" /><br><b>Plotly</b></td>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" alt="Tableau" /><br><b>Tableau</b></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" height="40" alt="Powepoint" /><br><b>Powerpoint</b></td>
   </tr>
 </table>
 
@@ -103,7 +108,8 @@
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="AWS" /><br><b>AWS</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="Heroku" /><br><b>Heroku</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" /><br><b>GitHub</b></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Railway_Logo.svg" height="40" alt="Railway" /><br><b>GitHub</b></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Railway_Logo.svg" height="40" alt="Railway" /><br><b>Railway</b></td>
+    <td align="center"><img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="40" alt="Streamlit" /><br><b>Streamlit</b></td>
   </tr>
 </table>
 
