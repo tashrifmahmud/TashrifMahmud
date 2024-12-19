@@ -5,19 +5,19 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tashrifmahmud" target="_blank">
+  <a href="https://www.linkedin.com/in/tashrifmahmud" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:mahmudtashrif@gmail.com" target="_blank">
+  <a href="mailto:mahmudtashrif@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://discordlookup.com/user/1117829620021071883" target="_blank">
+  <a href="https://discordlookup.com/user/1117829620021071883" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   &nbsp;
-  <a href="https://github.com/tashrifmahmud/TashrifMahmud/releases/download/v1.0.0/Resume_Tashrif_Mahmud.pdf" target="_blank">
+  <a href="https://github.com/tashrifmahmud/TashrifMahmud/releases/download/v1.0.0/Resume_Tashrif_Mahmud.pdf" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Resume-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="29px" alt="Resume" />
   </a>
 </div>
