@@ -38,8 +38,8 @@
         🔭 Currently working on <a href="https://github.com/yourusername/hybrid-recommender-system" target="_blank">AI Recommendation Engines</a><br>
         🌱 Expanding my skills in <b>Deep Learning</b> and <b>Natural Language Processing</b><br>
         👨‍💻 Check our some of my completed projects: <br>
-        - <a href="https://github.com/tashrifmahmud/Hybrid-Recommender-System" target="_blank">Hybrid Recommendation System</a><br>
-        - <a href="https://github.com/tashrifmahmud/LLM-Project" target="_blank">Sentiment Analysis with LLMs</a><br>
+        - <a href="https://hybrid-recommender-system.streamlit.app" target="_blank">Hybrid Recommendation System</a><br>
+        - <a href="https://llm-project-lhl-tashrif.streamlit.app" target="_blank">Sentiment Analysis with LLMs</a><br>
         💬 Ask me about <b>Machine Learning</b>, <b>Data Visualization</b>, and <b>AI</b><br>
         ⚡ Fun fact: <b>I love exploring insights from messy datasets!</b>
       </td>
