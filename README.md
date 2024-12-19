@@ -26,7 +26,7 @@
 
 ###
 
-<h3 align="center">Data enthusiast and aspiring Data Scientist transitioning into the Tech World with a passion for Machine Learning and AI, dedicated to solving real-world problems through data!</h3>
+<h3 align="center">Data enthusiast and aspiring Data Scientist passionate about Machine Learning and AI, committed to solving real-world problems with data-driven solutions!</h3>
 
 ###
 
@@ -73,14 +73,6 @@
   </tr>
 </table>
 
-#### Machine Learning & AI
-<table>
-  <tr>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn" /><br><b>Scikit-learn</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" /><br><b>TensorFlow</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="Keras" /><br><b>Keras</b></td>
-  </tr>
-</table>
 
 <div align="center">
   <table>
@@ -124,13 +116,6 @@
   </tr>
 </table>
 
-#### Databases
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" /><br><b>MySQL</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" /><br><b>SQLite</b></td>
-  </tr>
-</table>
 
 #### Development & Deployment
 <table>
