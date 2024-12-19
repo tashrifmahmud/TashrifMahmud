@@ -70,7 +70,9 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" /><br><b>Pandas</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" /><br><b>NumPy</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stata/stata-original-wordmark.svg" height="40" alt="Stata" /><br><b>Stata</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Data Wrangling" /><br><b>Data Wrangling</b></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/SQLAlchemy.svg" height="40" alt="SQLAlchemy" /><br><b>SQLAlchemy</b></td>
+    <td align="center"><img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-no-text.svg" height="40" alt="StatsModels" /><br><b>StatsModels</b></td>
+    <td align="center"><img src="https://scrapeops.io/img/sdk-icons/scrapy-logo.png" height="40" alt="Scrapy" /><br><b>Scrapy</b></td>
   </tr>
 </table>
 
@@ -84,6 +86,7 @@
           <table>
             <tr>
               <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn" /><br><b>Scikit-learn</b></td>
+              <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height="40" alt="PyTorch" /><br><b>PyTorch</b></td>
               <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" /><br><b>TensorFlow</b></td>
               <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="Keras" /><br><b>Keras</b></td>
             </tr>
