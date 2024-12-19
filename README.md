@@ -82,6 +82,37 @@
   </tr>
 </table>
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <div align="center">
+          <h4>Machine Learning & AI</h4>
+          <table>
+            <tr>
+              <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn" /><br><b>Scikit-learn</b></td>
+              <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" /><br><b>TensorFlow</b></td>
+              <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="Keras" /><br><b>Keras</b></td>
+            </tr>
+          </table>
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <h4>Databases</h4>
+          <table>
+            <tr>
+              <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" /><br><b>MySQL</b></td>
+              <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" /><br><b>SQLite</b></td>
+            </tr>
+          </table>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 #### Data Visualization
 <table>
   <tr>
