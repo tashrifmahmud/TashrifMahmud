@@ -112,6 +112,7 @@
 #### Data Visualization
 <table>
   <tr>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="PowerBI" /><br><b>Power BI</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" /><br><b>Matplotlib</b></td>
     <td align="center"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="Seaborn" /><br><b>Seaborn</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40" alt="Plotly" /><br><b>Plotly</b></td>
