@@ -117,7 +117,7 @@
     <td align="center"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="Seaborn" /><br><b>Seaborn</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40" alt="Plotly" /><br><b>Plotly</b></td>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" alt="Tableau" /><br><b>Tableau</b></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" height="40" alt="Powepoint" /><br><b>Powerpoint</b></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" height="40" alt="PowerPoint" /><br><b>PowerPoint</b></td>
   </tr>
 </table>
 
