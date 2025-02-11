@@ -27,7 +27,7 @@
 
 ###
 
-<h3 align="center">Data enthusiast and aspiring Data Scientist venturing into the Tech World, passionate about Machine Learning and AI, committed to solving real-world problems with data-driven solutions!</h3>
+<h3 align="center">Data enthusiast venturing into the Tech World, passionate about Machine Learning and AI, committed to solving real-world problems with data-driven solutions!</h3>
 
 ###
 
