@@ -35,7 +35,7 @@
   <table>
     <tr>
       <td align="left">
-        🔭 Currently working on <a href="https://sentiment-analysis-v2.streamlit.app/Reddit_Sentiment_Analysis_Tool" target="_blank">Reddit Sentiment Analysis Tool</a><br>
+        🔭 Currently working on <a href="https://github.com/tashrifmahmud/CSV-Editor-App" target="_blank">CSV Editor App</a><br>
         🌱 Expanding my skills in <b>Deep Learning</b> and <b>Natural Language Processing</b><br>
         👨‍💻 Check our some of my completed projects: <br>
         - <a href="https://hybrid-recommender-system.streamlit.app" target="_blank">Hybrid Recommendation System</a><br>
