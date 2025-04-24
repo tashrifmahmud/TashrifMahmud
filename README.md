@@ -4,8 +4,6 @@
 
 ###
 
-
-
 <div align="center">
   <a href="https://www.linkedin.com/in/tashrifmahmud" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -20,7 +18,6 @@
     <img src="https://img.shields.io/badge/Resume-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="29px" alt="Resume" />
   </a>
 </div>
-
 
 
 ###
@@ -110,7 +107,6 @@
   </table>
 </div>
 
-
 #### Data Visualization
 <table>
   <tr>
@@ -122,7 +118,6 @@
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" height="40" alt="PowerPoint" /><br><b>PowerPoint</b></td>
   </tr>
 </table>
-
 
 #### Development & Deployment
 <table>
