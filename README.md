@@ -22,11 +22,11 @@
 
 ###
 
-<h1 align="center">Hello 👋, I'm Tashrif Mahmud
+<h1 align="center">Hello 👋, I'm Tashrif
 
 ###
 
-<h3 align="center">Data enthusiast venturing into the Tech World, passionate about Machine Learning and AI, committed to solving real-world problems with data-driven solutions!</h3>
+<h3 align="center">Data enthusiast venturing into the Tech World, passionate about ML and AI, committed to solving real-world problems with data-driven solutions!</h3>
 
 ###
 
