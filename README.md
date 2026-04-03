@@ -34,13 +34,13 @@
   <table>
     <tr>
       <td align="left">
-        🔭 Currently working on <a href="https://github.com/tashrifmahmud/CSV-Editor-App" target="_blank">CSV Editor App</a><br>
+        🔭 Currently working on <a href="https://github.com/tashrifmahmud/network_incident_intelligence" target="_blank">Telecom Network Incident App</a><br>
         🌱 Expanding my skills in <b>Deep Learning</b> and <b>Natural Language Processing</b><br>
         👨‍💻 Check our some of my completed projects: <br>
         - <a href="https://hybrid-recommender-system.streamlit.app" target="_blank">Hybrid Recommendation System</a><br>
         - <a href="https://sentiment-analysis-v2.streamlit.app" target="_blank">Sentiment Analysis with LLMs</a><br>
         💬 Ask me about <b>Machine Learning</b>, <b>Data Visualization</b>, and <b>AI</b><br>
-        ⚡ Fun fact: <b>I love exploring insights from messy datasets!</b>
+        ⚡ Fun fact: <b>I love bike riding!</b>
       </td>
     </tr>
   </table>
